@@ -1,3 +1,7 @@
+package display;
+
+import observer.Observer;
+
 public class ForecastDisplay implements Observer {
     private float lastPressure;
     private float currentPressure;
