@@ -1,4 +1,4 @@
-package display;
+package observer.display;
 
 import observer.Observer;
 

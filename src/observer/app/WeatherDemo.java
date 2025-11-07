@@ -1,3 +1,10 @@
+package observer.app;
+
+import observer.display.CurrentConditionsDisplay;
+import observer.display.ForecastDisplay;
+import observer.Observer;
+import observer.WeatherStation;
+
 public class WeatherDemo {
     public static void main(String[] args) {
         WeatherStation station = new WeatherStation();
